@@ -37,6 +37,8 @@ Wake up word를 통해 해당 client의 위치를 감지하는 기술을 의미�
     * [[졸업프로젝트 3탄, HW] turtlebot3로 SLAM, Navigation 구현(2020 Summer)](https://jisuhan.tistory.com/entry/turtlebot3로-SLAM-Navigation-구현하기)  
 
 - 박지윤  
+    * [[1탄] Yolo v3 를 이용한 인물 추적 프로젝트](https://yumissfortune.tistory.com/4)
+    * [[2탄] Yolo v3 를 이용한 인물 추적 프로젝트](https://yumissfortune.tistory.com/5)
 - 김채원  
   
 ### 현재까지의 수상기록
