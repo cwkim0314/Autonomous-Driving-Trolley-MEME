@@ -39,6 +39,8 @@ Wake up word를 통해 해당 client의 위치를 감지하는 기술을 의미�
 - 박지윤  
 - 김채원  
   
+### 현재까지의 수상기록
+- 2020 캡스톤 디자인 경진대회 창업 아이디어 부문 우수상
 
 ### License
 Copyright (c) 2020 MEME-Phoenix
