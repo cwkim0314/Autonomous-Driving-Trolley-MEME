@@ -1,8 +1,8 @@
 # Autonomous driving Trolley ⌜MEME⌟
 ## 딥러닝을 이용한 자율주행카트 ⌜미미⌟
 본 프로젝트는 이화여자대학교 컴퓨터공학과 졸업프로젝트의 일환으로, 스타트 불사조(Phonix)팀입니다.
-[Notion Link](https://www.notion.so/Autonomous-Driving-Trolley-01fdd602990b4baa9b603d419a1479bb) / 
-[GitHub Link](https://github.com/JisuHann/Autonomous-driving-vehicle)
+[Notion Link](https://bit.ly/3lN3iEF) / 
+[GitHub Link](https://github.com/MEME-Phoenix)
 
 ### 문제 정의
 1. 오프라인 매장의 매출 감소  
@@ -15,9 +15,8 @@
 불사조팀의 미미는 마트 고객의 편의를 최우선으로하는 완벽한 쇼핑메이트입니다. 고객이 대형마트에서 쇼핑을 하는 동안, 미미는 반려동물처럼 해당 고객을 졸졸 따라다닙니다. 고객을 잃어버리는 경우에, 자동으로 찾아가서 쇼핑을 도와줍니다.
 
 ### 현재 진행 단계는?
-현재 본 팀 불사조는 기술 구현 단계 중에 있습니다. 다음 영상으로 진행단계를 확인할 수 있습니다.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EBPJbAxh_2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+현재 본 팀 불사조는 기술 구현 단계 중에 있습니다. 다음 영상으로 진행단계를 확인할 수 있습니다.(해당 썸네일을 눌러주세요.)
+[![](http://img.youtube.com/vi/KcIz_Y_clhU/0.jpg)](http://www.youtube.com/watch?v=KcIz_Y_clhU "")
 1. SW 알고리즘 | Object Tracking  
 카메라 정보를 통해 화면에 해당 client를 찾아, 이를 tracking 하는 역할을 수행합니다. Object Detection 기술과 Tracking 기술을 합쳐 구현됩니다. Tracking 알고리즘은  위에서 나온 앞뒤 탐지 프레임 분석을 통해 자율 주행 카트를 사용하는 client를 정확히 탐지하게 됩니다. 이를 구현하기 위해 이미지 처리에 사용되는 Filter(칼만 필터과 헝가리안 필터 등)로 간단한 딥러닝 모델을 통해 구현하려 합니다.  
 
