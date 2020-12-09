@@ -30,6 +30,10 @@ Wake up word를 통해 해당 client의 위치를 감지하는 기술을 의미�
  카메라를 사용한다고 해서 모든 장애물을 감지하고,  돌발상황을 예방할 수 없습니다 따라서 본 팀은 LiDAR Navigation client 센서의 기술을 통해 를 둘러싼 주변 환경을 완벽하게 인지하려 합니다. 장애물을 감지하고 client와의 적정거리를 유지하게 됩니다 이를 통해 고객을 졸졸 따라다닐 수 있는 자율주행 카트의 목적을 달성하게 됩니다.
 이러한 기본적인 기능뿐만 아닌 센서의 LiDAR SLAM 기술을 통해 자율 주행 카트는 다양한 분야에서 의 확장 가능성을 가집니다 기술의 . SLAM Mapping 을 통해 매장 장소의 map을 형성하여 해당 카트의 위치까지 완벽히 파악/ 매장 장소를 완벽히 이해하여 다른 환경에서도 간단히 Mapping만 돌리면 바로 적용이 가능해지는 우위에 있습니다.
 
+### Referenced Resources 
+
+1. [Yolo V5 + Deepsort](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)
+
 ### 프로젝트 기술 소개 블로그  
 - 한지수
     * [[졸업프로젝트 개요, 1탄 RNN] 딥러닝을 이용한 자율주행카트](https://jisuhan.tistory.com/entry/졸업프로젝트딥러닝을-이용한-자율주행카트)
