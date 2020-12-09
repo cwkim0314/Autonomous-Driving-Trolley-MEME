@@ -39,8 +39,12 @@ Wake up word를 통해 해당 client의 위치를 감지하는 기술을 의미�
 - 박지윤  
     * [[1탄] Yolo v3 를 이용한 인물 추적 프로젝트](https://yumissfortune.tistory.com/4)
     * [[2탄] Yolo v3 를 이용한 인물 추적 프로젝트](https://yumissfortune.tistory.com/5)
+
 - 김채원  
-  
+    * [[IT/KR/Project] 자율 주행 카트를 만들어보자](https://blog.naver.com/cwkim0314/222156573981)
+    * [[IT/KR] Object Detection - EfficientDet](https://blog.naver.com/cwkim0314/222156584109)
+    * [[IT/KR/Project] Hardware: Alphabot2-pi](https://blog.naver.com/cwkim0314/222167401417)
+    
 ### 현재까지의 수상기록
 - 2020 캡스톤 디자인 경진대회 창업 아이디어 부문 우수상
 
